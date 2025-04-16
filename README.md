@@ -1,6 +1,7 @@
 # EX01 Developing a Simple Webserver
 
-# Date:
+# Date:16.04.2025
+## REG NO:212224220055
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
